@@ -1,3 +1,6 @@
+![WhatsApp Image 2025-02-19 at 12 06 53_e803d6d4](https://github.com/user-attachments/assets/09fcbebc-a500-4fa9-8717-931bc8b0120d)
+
+
 > [!IMPORTANT]  
 > The Homarr repository has been moved to [HomarrLabs](https://github.com/homarr-labs/homarr)
 > Please create issues related to 1.0 there. This repository will be archived once the 1.0 is fully polished.
